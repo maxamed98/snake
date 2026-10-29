@@ -85,6 +85,9 @@ int main()
             DrawRectangleRounded(aboutButton, 1, 0, aboutButtonColor);
             DrawText("ABOUT", 660, 445, 40, BLACK);
 
+            DrawText("Snake", 635, 50, 60, BLACK);
+
+
         }
         
         if(current_window == "about") {
